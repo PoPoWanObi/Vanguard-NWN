@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "sha1": "3c4e1fd1d5296e2df71884592099ab28e4f3d1b2",
+  "hash_tree_depth": 2,
+  "module_name": "",
+  "description": "Addon files for Vanguard's Rhun Server.",
+  "includes_module_contents": false,
+  "includes_client_contents": true,
+  "total_files": 162317,
+  "total_bytes": 7213057840,
+  "on_disk_bytes": 2686882371,
+  "created": 1650950167,
+  "created_with": "nwsync.nim nwsync 0.4.3 (/0e3d83, nim 1.6.0)"
+}
