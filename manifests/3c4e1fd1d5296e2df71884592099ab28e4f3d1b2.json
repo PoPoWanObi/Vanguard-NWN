@@ -3,7 +3,7 @@
   "sha1": "3c4e1fd1d5296e2df71884592099ab28e4f3d1b2",
   "hash_tree_depth": 2,
   "module_name": "",
-  "description": "Addon files for Vanguard's Rhun Server.",
+  "description": "Addon files for Vanguard's Rhun Server. If it fails, simply restart the download.",
   "includes_module_contents": false,
   "includes_client_contents": true,
   "total_files": 162317,
