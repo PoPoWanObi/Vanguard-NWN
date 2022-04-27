@@ -8,7 +8,7 @@
   "includes_client_contents": true,
   "total_files": 162317,
   "total_bytes": 7213057840,
-  "on_disk_bytes": 2686882371,
-  "created": 1650950167,
+  "on_disk_bytes": 0,
+  "created": 1651034805,
   "created_with": "nwsync.nim nwsync 0.4.3 (/0e3d83, nim 1.6.0)"
 }
